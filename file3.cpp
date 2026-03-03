@@ -20,3 +20,8 @@ using namespace std;
  int luasPersegiP(int a, int b){
     return a * b
  }
+
+ void output(){
+    cout << "Hasilnya = " << luasPersegiP(p,l) << endl;
+    cour << "terima kasih" << endl;
+ }
