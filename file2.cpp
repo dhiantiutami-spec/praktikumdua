@@ -21,3 +21,8 @@ using namespace std;
     cout << "Hasilnya = " << luasPersegi()<< endl;
     cout << "Terima kasih";
  }
+
+ int main () {  //mulai
+    input();
+    output();
+ } //selesai
