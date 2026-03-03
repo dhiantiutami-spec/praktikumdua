@@ -23,7 +23,7 @@ using namespace std;
 
  void output(){
     cout << "Hasilnya = " << luasPersegiP(p,l) << endl;
-    cour << "terima kasih" << endl;
+    cout << "terima kasih" << endl;
  }
 
  int main(){ //mulai
