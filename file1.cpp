@@ -1,11 +1,12 @@
+//Library
 #include <iostream>
 using  namespace std;
 
-//deklarasi 
+//deklarasi global
 float jariJari;
 float phi = 3.14159;
 
-//prosedur
+// implementasi prosedur dan fungsi
 void awal (){
     cout << "Masukkan jari-jari lingkaran = ";
     cin >> jariJari;
@@ -22,3 +23,4 @@ void akhir (){
     awal();
     akhir();
  }
+ //selesai
