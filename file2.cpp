@@ -12,3 +12,7 @@ using namespace std;
     cout << "Masukkan lebar = ";
     cin >> l;
  }
+
+ int luasPersegi (){
+    return p * l;
+ }
